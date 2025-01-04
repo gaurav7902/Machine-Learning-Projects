@@ -6,7 +6,8 @@ Thanking you!
 
 Multiple Linear Regression model made from scratch ,
 Polynomial Regression model made from scratch ,
-Binary Classification model made from scratch
+Binary Classification model made from scratch ,
+Multiple Classification model made from scratch
 
 ||||||||||||||||||||||||||||||||||||
 
